@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/SridharanMu/React_StudentRegistration/static/css/main.435d5fe5.chunk.css",
+    "main.js": "/SridharanMu/React_StudentRegistration/static/js/main.3da2e177.chunk.js",
+    "main.js.map": "/SridharanMu/React_StudentRegistration/static/js/main.3da2e177.chunk.js.map",
+    "runtime-main.js": "/SridharanMu/React_StudentRegistration/static/js/runtime-main.e66666d4.js",
+    "runtime-main.js.map": "/SridharanMu/React_StudentRegistration/static/js/runtime-main.e66666d4.js.map",
+    "static/css/2.11d253d1.chunk.css": "/SridharanMu/React_StudentRegistration/static/css/2.11d253d1.chunk.css",
+    "static/js/2.6c51cd49.chunk.js": "/SridharanMu/React_StudentRegistration/static/js/2.6c51cd49.chunk.js",
+    "static/js/2.6c51cd49.chunk.js.map": "/SridharanMu/React_StudentRegistration/static/js/2.6c51cd49.chunk.js.map",
+    "static/js/3.41f7e31a.chunk.js": "/SridharanMu/React_StudentRegistration/static/js/3.41f7e31a.chunk.js",
+    "static/js/3.41f7e31a.chunk.js.map": "/SridharanMu/React_StudentRegistration/static/js/3.41f7e31a.chunk.js.map",
+    "index.html": "/SridharanMu/React_StudentRegistration/index.html",
+    "precache-manifest.1fb5445c31c9a881d0c759bd880c56a4.js": "/SridharanMu/React_StudentRegistration/precache-manifest.1fb5445c31c9a881d0c759bd880c56a4.js",
+    "service-worker.js": "/SridharanMu/React_StudentRegistration/service-worker.js",
+    "static/css/2.11d253d1.chunk.css.map": "/SridharanMu/React_StudentRegistration/static/css/2.11d253d1.chunk.css.map",
+    "static/css/main.435d5fe5.chunk.css.map": "/SridharanMu/React_StudentRegistration/static/css/main.435d5fe5.chunk.css.map",
+    "static/js/2.6c51cd49.chunk.js.LICENSE.txt": "/SridharanMu/React_StudentRegistration/static/js/2.6c51cd49.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e66666d4.js",
+    "static/css/2.11d253d1.chunk.css",
+    "static/js/2.6c51cd49.chunk.js",
+    "static/css/main.435d5fe5.chunk.css",
+    "static/js/main.3da2e177.chunk.js"
+  ]
+}
